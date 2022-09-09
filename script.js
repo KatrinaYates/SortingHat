@@ -1,3 +1,7 @@
+unhide = () => {
+  document.body.style.display = 'flex';
+}
+
 let question1 = {
   t: "question1",
   q: "You have a decision to make. How do you make your decision?",
